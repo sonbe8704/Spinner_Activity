@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test">
+        <item>승재는 공주</item>
+        <item>승재는 왕자</item>
+        <item>승재는 고양이</item>
+        <item>승재는 멋져</item>
+
+    </string-array>
+
+</resources>
